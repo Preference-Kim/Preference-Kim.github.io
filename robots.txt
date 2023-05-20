@@ -1,0 +1,15 @@
+# robots.txt
+# This file instructs search engines on how to interact with the site.
+
+# User-agent: *
+# The "*" wildcard applies to all search engine crawlers.
+
+# Disallow: /
+# The "Disallow" directive tells search engine crawlers not to access any page on the site.
+
+# By default, all pages on the site are blocked from search engine crawling.
+# If you want search engines to index your site, remove or modify the "Disallow" directive.
+# For more information on robots.txt, visit https://www.robotstxt.org/faq/
+
+User-agent: *
+Disallow: /
