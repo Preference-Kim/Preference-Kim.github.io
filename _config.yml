@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme: "mmistakes/minimal-mistakes@4.22.0"
-minimal_mistakes_skin    : "neon" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US, ko"
@@ -105,18 +105,18 @@ author:
     Welcome to my blog. I received the B.Eng. and M.S. degrees in electrical engineering from Korea University, Seoul, Korea, 
     in 2021 and 2023, respectively. My research interests include machine learning, Bayesian inference 
     techniques, and their industrial applications such as artificial intelligence and camera-based vision systems.
-    Currently, I work as an AI researcher at DeltaX while fulfilling my alternative military service. 
+    Currently I work as an AI researcher at DeltaX in Seoul, while fulfilling my alternative military service. 
     I am open to collaborations or discussions related to research, career, etc. 
     Feel free to contact me via email or LinkedIn.
   location         : "Seoul, Korea"
   email            : "preferencekimm@gmail.com"
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/Preference-Kim"
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/sunho-kim-profile"
+#   links:
+#     - label: "GitHub"
+#       icon: "fab fa-fw fa-github"
+#       url: "https://github.com/Preference-Kim"
+#     - label: "LinkedIn"
+#       icon: "fab fa-linkedin"
+#       url: "https://www.linkedin.com/in/sunho-kim-profile"
 #     - label: "Website"
 #       icon: "fas fa-fw fa-link"
 #       # url: "https://your-website.com"
