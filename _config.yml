@@ -110,9 +110,6 @@ author:
   location         : "Seoul, Korea"
   email            : "preferencekimm@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: preferencekimm@gmail.com "mailto:your.name@email.com"
 #     - label: "Website"
 #       icon: "fas fa-fw fa-link"
 #       # url: "https://your-website.com"
@@ -135,6 +132,9 @@ author:
 # Site Footer
 footer:
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:preferencekimm@gmail.com" "mailto:your.name@email.com"  
 #     - label: "Twitter"
 #       icon: "fab fa-fw fa-twitter-square"
 #       # url:
