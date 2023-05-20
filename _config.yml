@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US, ko"
-title                    : "김선호"
+title                    : "[Blog] Sunho Kim" # 탭에 표시되는 제목
 title_separator          : "-"
 subtitle                 : "계획, 공부, 업무, 그리고 일기" # site tagline that appears below site title in masthead
 name                     : "Sunho Kim"
@@ -26,7 +26,7 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "Preference-Kim/preference-kim.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/test/assets/images/500x300.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/test/assets/images/88x88.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "[Blog] Sunho Kim" # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "김 선 호" # 사이트 내 제목 # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
