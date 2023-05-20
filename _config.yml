@@ -24,8 +24,8 @@ description              : "personal website" #"An amazing website."
 url                      : "preference-kim.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "Preference-Kim/preference-kim.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/test/assets/images/500x300.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/test/assets/images/88x88.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+teaser                   : "/assets/images/500x300.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+# logo                     : "/test/assets/images/88x88.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "김 선호" # 사이트 내 제목 # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -100,14 +100,14 @@ analytics:
 # Site Author
 author:
   name             : "Sunho Kim"
-  avatar           : "/test/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: | 
-    "Welcome to my blog. I received the B.Eng. and M.S. degrees in electrical engineering from Korea University, Seoul, Korea, 
+    Welcome to my blog. I received the B.Eng. and M.S. degrees in electrical engineering from Korea University, Seoul, Korea, 
     in 2021 and 2023, respectively. My research interests include machine learning, Bayesian inference 
     techniques, and their industrial applications such as artificial intelligence and camera-based vision systems.
     Currently, I work as an AI researcher at DeltaX while fulfilling my alternative military service. 
     I am open to collaborations or discussions related to research, career, etc. 
-    Feel free to contact me via email or LinkedIn."
+    Feel free to contact me via email or LinkedIn.
   location         : "Seoul, Korea"
   email            : "preferencekimm@gmail.com"
   links:
@@ -181,16 +181,16 @@ exclude:
 #   - Gemfile
 #   - Gruntfile.js
 #   - gulpfile.js
-#   - LICENSE
-#   - log
+   - LICENSE
+   - log
 #   - node_modules
 #   - package.json
 #   - package-lock.json
 #   - Rakefile
    - README
-#   - tmp
+   - tmp
    - /docs # ignore Minimal Mistakes /docs
-#   - /test # ignore Minimal Mistakes /test
+   - /test # ignore Minimal Mistakes /test
 keep_files:
   - .git
   - .svn
