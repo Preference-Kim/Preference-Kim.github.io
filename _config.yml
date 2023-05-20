@@ -132,15 +132,15 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:preferencekimm@gmail.com" "mailto:your.name@email.com"  
 #     - label: "Twitter"
 #       icon: "fab fa-fw fa-twitter-square"
 #       # url:
 #     - label: "Facebook"
 #       icon: "fab fa-fw fa-facebook-square"
 #       # url:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:preferencekimm@gmail.com" # "mailto:your.name@email.com"  
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Preference-Kim"
