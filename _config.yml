@@ -52,7 +52,7 @@ reCaptcha:
 atom_feed:                 # Atom 피드는 블로그의 컨텐츠를 구독할 수 있는 XML 기반 웹 피드입니다. 이 설정은 Atom 피드 관련 설정을 지정하는 데 사용됩니다.
   path                   : # blank (default) uses feed.xml
   hide                   : "true" # true, false (default)
-search                   : # true, false (default)
+search                   : "true" # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
 algolia:
@@ -294,6 +294,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      show_date: true
       read_time: true
       comments: # true
       share: true
